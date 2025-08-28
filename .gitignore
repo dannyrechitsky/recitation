@@ -8,3 +8,10 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Jupyter notebooks cache
+.ipynb_checkpoints/
+
+# Editor/IDE generated files
+.idea/
+.vscode/

@@ -15,3 +15,6 @@ wheels/
 # Editor/IDE generated files
 .idea/
 .vscode/
+
+# Directory having answers
+answers/

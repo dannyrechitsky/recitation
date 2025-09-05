@@ -16,5 +16,5 @@ wheels/
 .idea/
 .vscode/
 
-# Directory having answers
-answers/
+# MacOS dotfile
+.DS_Store
